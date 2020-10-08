@@ -7,12 +7,11 @@ h3{
 p{
     margin-left: 170px;
 }
-#peras{
-    margin-left: 15%;
+#columna1{
+    float: left;
+    margin-left: 50px;
 }
-#manzanas{
-    margin-left: 2.5%;
-}
-#textoPeras{
-    margin-left: 70%;
+#columna2{
+    float: right;
+    margin-right: 50px;
 }
